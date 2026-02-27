@@ -1,5 +1,3 @@
-## Yuhao Fu
-
 PhD student at **The University of Osaka (ISER)**.  
 I design and run economic experiments to study **AI reliance** and **human–AI interaction**, with a focus on how large language models (LLMs) shape human judgment, confidence, and strategic behavior.
 
