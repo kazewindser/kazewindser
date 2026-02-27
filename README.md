@@ -21,8 +21,7 @@ I design and run economic experiments to study **AI reliance** and **human–AI 
 
 ---
 
-### 📷 Outside research, I enjoy photography.  Follow me on Instagram:  
-[![Instagram](https://img.shields.io/badge/Instagram-@kaze__windser-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaze_windser/)
+### 📷 Outside research, I enjoy photography.  Follow me on Instagram:  [![Instagram](https://img.shields.io/badge/Instagram-@kaze__windser-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaze_windser/)
 
 <!--
 **kazewindser/kazewindser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
