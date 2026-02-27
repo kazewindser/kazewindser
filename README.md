@@ -17,15 +17,11 @@ I design and run economic experiments to study **AI reliance** and **human–AI 
 
 ---
 
-### 🌐 Academic Profile
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yuhao-Fu-3)
+### 🌐 Academic [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yuhao-Fu-3)
 
 ---
 
-### 📷 Photography
-
-Outside research, I enjoy photography.  Follow me on Instagram:  
+### 📷 Outside research, I enjoy photography.  Follow me on Instagram:  
 [![Instagram](https://img.shields.io/badge/Instagram-@kaze__windser-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaze_windser/)
 
 <!--
