@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🌐 Academic Profiles
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/你的名字)
 
 <!--
 **kazewindser/kazewindser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
