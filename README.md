@@ -11,9 +11,9 @@ I design and run economic experiments to study **AI reliance** and **human–AI 
 ---
 
 ### 🧪 Work in Progress
-- AI & Overconfidence 
-- AI & Gender Gaps in Competitiveness
-- AI & Bargaining Games
+- AI & Overconfidence （with Nobuyuki Hanaki and Peiran Jiao）
+- AI & Gender Gaps in Competitiveness (with Pengju Chen, Jieyi Duan, and Diogo Geraldes)
+- AI & Bargaining Games （with Nobuyuki Hanaki and Haitao Wang）
 
 ---
 
