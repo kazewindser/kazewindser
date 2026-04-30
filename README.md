@@ -7,13 +7,13 @@ I design and run economic experiments to study **AI reliance** and **human–AI 
 
 - [Do People Rely on ChatGPT More Than Their Peers to Detect Deepfake News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6185538)
 - [Paying AI to Detect AI](https://papers.ssrn.com/abstract=5730024)
+- [Do Humans Bargain Differently with AI? Evidence from Alternating-Offer Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6679083)
 
 ---
 
 ### 🧪 Work in Progress
 - AI & Overconfidence （with [Nobuyuki Hanaki](https://sites.google.com/view/nhanaki/home) and [Peiran Jiao](https://peiranjiao.wordpress.com/)）
 - AI & Gender Gaps in Competitiveness (with Pengju Chen, [Jieyi Duan](https://sites.google.com/view/duan-jieyi), and [Diogo Geraldes](https://www.diogogeraldes.com/))
-- AI & Bargaining Games （with [Nobuyuki Hanaki](https://sites.google.com/view/nhanaki/home) and Haitao Wang）
 
 ---
 
