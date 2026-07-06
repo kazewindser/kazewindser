@@ -10,7 +10,7 @@ I design and run economic experiments to study **AI reliance** and **human–AI 
 ### 📄 Working Papers
 
 - Yuhao Fu and Nobuyuki Hanaki "[Paying AI to Detect AI](https://papers.ssrn.com/abstract=5730024)"
-- Yuhao Fu, Nobuyuki Hanaki and Haitao Wang, [Do Humans Bargain Differently with AI? Evidence from Alternating-Offer Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6679083)
+- Yuhao Fu, Nobuyuki Hanaki and Haitao Wang, "[Do Humans Bargain Differently with AI? Evidence from Alternating-Offer Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6679083)"
 
 ---
 
