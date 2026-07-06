@@ -1,13 +1,16 @@
 PhD student at **The University of Osaka (ISER)**.  
 I design and run economic experiments to study **AI reliance** and **human–AI interaction**, with a focus on how large language models (LLMs) shape human judgment, confidence, and strategic behavior.
 
+### 📄 Published Papers
+
+- Yuhao Fu and Nobuyuki Hanaki "[Do People Rely on ChatGPT More Than Their Peers to Detect Deepfake News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6185538)" forthcoming in *Journal of Economic Interactions and Coordination*
+
 ---
 
 ### 📄 Working Papers
 
-- [Do People Rely on ChatGPT More Than Their Peers to Detect Deepfake News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6185538)
-- [Paying AI to Detect AI](https://papers.ssrn.com/abstract=5730024)
-- [Do Humans Bargain Differently with AI? Evidence from Alternating-Offer Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6679083)
+- Yuhao Fu and Nobuyuki Hanaki "[Paying AI to Detect AI](https://papers.ssrn.com/abstract=5730024)"
+- Yuhao Fu, Nobuyuki Hanaki and Haitao Wang, [Do Humans Bargain Differently with AI? Evidence from Alternating-Offer Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6679083)
 
 ---
 
