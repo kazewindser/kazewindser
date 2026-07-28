@@ -3,7 +3,7 @@ I design and run economic experiments to study **AI reliance** and **human–AI 
 
 ### 📄 Published Papers
 
-- Yuhao Fu and Nobuyuki Hanaki "[Do People Rely on ChatGPT More Than Their Peers to Detect Deepfake News?](https://link.springer.com/article/10.1007/s11403-026-00490-6)", *Journal of Economic Interactions and Coordination*
+- Yuhao Fu and Nobuyuki Hanaki "[Do People Rely on ChatGPT More Than Their Peers to Detect Deepfake News?](https://link.springer.com/article/10.1007/s11403-026-00490-6)", *Journal of Economic Interactions and Coordination*, 21(2), 741–790, [https://doi.org/10.1007/s11403-026-00490-6](https://doi.org/10.1007/s11403-026-00490-6)
 
 ---
 
