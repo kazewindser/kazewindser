@@ -16,7 +16,6 @@ I design and run economic experiments to study **AI reliance** and **human–AI 
 
 ### 🧪 Work in Progress
 - AI & Overconfidence （with [Nobuyuki Hanaki](https://sites.google.com/view/nhanaki/home) and [Peiran Jiao](https://peiranjiao.wordpress.com/)）
-- AI & Gender Gaps (with Pengju Chen, [Jieyi Duan](https://sites.google.com/view/duan-jieyi), and [Diogo Geraldes](https://www.diogogeraldes.com/))
 
 ---
 
